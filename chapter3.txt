@@ -1,0 +1,3 @@
+This is the third chapter of the story, which was used to test the battles between github and git -commit and other nonsense which I would probably write down. 
+
+completed!
